@@ -1,5 +1,5 @@
 function spread_windows() {
-	// First calculate the number of rows	
+	// First, calculate the number of rows	
 }
 
 function number_of_rows() {
